@@ -2,4 +2,4 @@
 Python
 
 
-![](https://github.com/BALAJIHARIDASAN/Python/blob/main/programmer.gif)
+![](https://github.com/BALAJIHARIDASAN/Python/blob/main/pg.gif)
