@@ -1,11 +1,9 @@
 # Python
-Python
-
 
 ![](https://github.com/BALAJIHARIDASAN/Python/blob/main/pg.gif)
 
 
-**Python**
+**Python :**
 
 -Python is an interpreted, object-oriented, high-level programming language that can be used for a wide variety of applications.
 
@@ -19,7 +17,7 @@ Python
 
 -Founder of Python Guido van Rossum
 
-**Advantages of Python Programming**
+**Advantages of Python Programming :**
 
 -Python is easy to learn and use.
 
